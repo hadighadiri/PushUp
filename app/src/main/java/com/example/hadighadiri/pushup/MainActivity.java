@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private void testUpload() {
         int i = 0;
         i = i + 1;
+        int k = i;
+        k++;
     }
 }
